@@ -4,9 +4,6 @@ A note taker app which showcases express and CRUD operations.
 By Raj Nori. Note taker app.
 
 
-
-
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
