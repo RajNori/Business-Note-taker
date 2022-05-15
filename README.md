@@ -98,7 +98,7 @@ To do:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...Monash Bootcamp
-- This project was based on the assignment team generator.
+- This project was based on the assignment Note taker App.
 - Many thanks to....
 
 
@@ -110,4 +110,3 @@ Created by [@rajnori](https://rajnori.github.io/Portfolio-project/) - feel free 
 
 
 
-- 
