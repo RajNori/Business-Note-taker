@@ -3,7 +3,7 @@ A note taker app which showcases express and CRUD operations.
 
 By Raj Nori. Note taker app.
 
-Run ```node index.js``` and answer question prompts.
+
 
 
 
