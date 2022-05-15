@@ -68,8 +68,8 @@ List the ready features here:
 
 
 ## Screenshots
-
-
+public/assets/images/screenshot_1.png
+public/assets/images/screenshot_2.png
 ## Video
 
 ## Setup
