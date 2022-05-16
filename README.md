@@ -71,7 +71,8 @@ List the ready features here:
 public/assets/images/screenshot_1.png
 public/assets/images/screenshot_2.png
 ## Video
-
+Please clink on the link below for the walkthrough video...
+https://youtu.be/kfxmQrx7uA8
 ## Setup
 The project uses express, please install it before running the program.
 
